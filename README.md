@@ -94,13 +94,13 @@ I have tested the scanner functionality on these devices without any issues so f
 * HTC Thunderbolt running Android 2.3.4
 * Samsung Galaxy Nexus running Android 4.0.4
 
-###Credits
+### Credits
 Almost all of the code for this library project has been taken from these two places:
 
 1. CameraPreview app from Android SDK APIDemos 
 2. The ZBar Android SDK: http://sourceforge.net/projects/zbar/files/AndroidSDK/
 
-###License
+### License
 MIT
 
 --------------------------------------------------------------------------------------
